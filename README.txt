@@ -18,7 +18,7 @@ instances into two CSV files, one containing only class instances and the other 
 To use it, simply follow the instructions present in the file, then run it without arguments.
 
 * mock_toy_dataset.csv is a mock dataset containing both class and nonclass instances of toys someone considered purchasing.
-You can use it to practive with the CSV_splitter tool.
+You can use it to test the CSV_splitter tool.
 
 * toy_purchased.csv and toy_avoided.csv are mock class and nonclass files respectively, and can be used to test the CFD_CLI tool.
 
