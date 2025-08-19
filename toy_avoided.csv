@@ -1,0 +1,101 @@
+Cost (Binned),Material,Shipping Delay (Days),Size,Noisy,Rating (Stars)
+$200 +,Wax,6,Large,Yes,3 -- 4
+$10 - $25,Paper,2,Extra Large,Yes,0 -- 1
+$10 - $25,Plastic,5,Tiny,Yes,1 -- 2
+$100 - $200,Metal,7,Extra Large,No,1 -- 2
+$200 +,Wax,3,Tiny,No,0 -- 1
+$100 - $200,Wax,3,Tiny,Yes,0 -- 1
+$200 +,Wax,3,Medium,Yes,0 -- 1
+$0 - $10,Paper,3,Tiny,No,4 -- 5
+$200 +,Plastic,4,Large,Yes,0 -- 1
+$100 - $200,Plastic,5,Small,Yes,3 -- 4
+$10 - $25,Paper,4,Medium,No,1 -- 2
+$0 - $10,Metal,6,Extra Large,No,0 -- 1
+$0 - $10,Paper,6,Small,Yes,2 -- 3
+$50 - $100,Wax,0,Extra Large,No,1 -- 2
+$10 - $25,Wood,2,Medium,Yes,3 -- 4
+$100 - $200,Plastic,5,Large,Yes,0 -- 1
+$200 +,Paper,2,Extra Large,No,1 -- 2
+$10 - $25,Plastic,5,Extra Large,Yes,0 -- 1
+$200 +,Plastic,6,Small,Yes,2 -- 3
+$100 - $200,Paper,2,Extra Large,Yes,0 -- 1
+$100 - $200,Wax,4,Extra Large,Yes,2 -- 3
+$100 - $200,Paper,6,Tiny,Yes,1 -- 2
+$100 - $200,Wood,6,Medium,Yes,1 -- 2
+$200 +,Wax,5,Tiny,No,0 -- 1
+$0 - $10,Metal,5,Extra Large,Yes,1 -- 2
+$100 - $200,Wax,7,Extra Large,Yes,0 -- 1
+$10 - $25,Glass,1,Extra Large,Yes,2 -- 3
+$0 - $10,Wax,2,Extra Large,Yes,1 -- 2
+$10 - $25,Glass,1,Large,Yes,2 -- 3
+$200 +,Paper,2,Medium,No,0 -- 1
+$10 - $25,Paper,7,Extra Large,Yes,2 -- 3
+$100 - $200,Wood,7,Medium,Yes,1 -- 2
+$100 - $200,Plastic,1,Small,No,0 -- 1
+$10 - $25,Paper,0,Medium,No,3 -- 4
+$200 +,Metal,0,Tiny,Yes,0 -- 1
+$10 - $25,Wax,6,Medium,Yes,1 -- 2
+$200 +,Paper,7,Tiny,Yes,1 -- 2
+$50 - $100,Plastic,7,Small,Yes,1 -- 2
+$0 - $10,Metal,2,Tiny,Yes,1 -- 2
+$10 - $25,Glass,2,Tiny,Yes,3 -- 4
+$200 +,Paper,6,Medium,Yes,1 -- 2
+$200 +,Wax,7,Extra Large,No,2 -- 3
+$200 +,Metal,5,Medium,Yes,3 -- 4
+$200 +,Metal,6,Medium,Yes,3 -- 4
+$0 - $10,Paper,5,Medium,Yes,2 -- 3
+$10 - $25,Plastic,5,Large,Yes,2 -- 3
+$0 - $10,Paper,7,Medium,Yes,0 -- 1
+$25 - $50,Plastic,5,Tiny,Yes,2 -- 3
+$200 +,Glass,1,Large,Yes,2 -- 3
+$10 - $25,Paper,3,Tiny,Yes,1 -- 2
+$25 - $50,Metal,6,Small,Yes,0 -- 1
+$25 - $50,Glass,3,Small,Yes,1 -- 2
+$25 - $50,Wax,2,Tiny,No,3 -- 4
+$0 - $10,Wax,4,Extra Large,Yes,0 -- 1
+$200 +,Wax,0,Tiny,Yes,1 -- 2
+$200 +,Glass,7,Small,Yes,1 -- 2
+$10 - $25,Paper,1,Medium,Yes,1 -- 2
+$200 +,Glass,7,Medium,No,2 -- 3
+$25 - $50,Plastic,5,Small,No,1 -- 2
+$50 - $100,Wax,4,Extra Large,Yes,0 -- 1
+$200 +,Plastic,1,Medium,Yes,2 -- 3
+$0 - $10,Paper,7,Medium,Yes,0 -- 1
+$0 - $10,Paper,2,Medium,Yes,1 -- 2
+$200 +,Glass,4,Extra Large,Yes,0 -- 1
+$0 - $10,Glass,6,Tiny,Yes,0 -- 1
+$10 - $25,Plastic,3,Extra Large,No,0 -- 1
+$25 - $50,Wood,3,Medium,Yes,0 -- 1
+$200 +,Plastic,3,Medium,Yes,0 -- 1
+$200 +,Paper,5,Medium,Yes,1 -- 2
+$100 - $200,Paper,6,Tiny,Yes,1 -- 2
+$200 +,Wood,4,Extra Large,No,1 -- 2
+$25 - $50,Metal,3,Tiny,Yes,0 -- 1
+$200 +,Metal,3,Medium,Yes,1 -- 2
+$25 - $50,Paper,6,Tiny,Yes,0 -- 1
+$200 +,Plastic,5,Large,No,4 -- 5
+$100 - $200,Glass,7,Tiny,No,1 -- 2
+$200 +,Paper,4,Extra Large,Yes,1 -- 2
+$100 - $200,Plastic,5,Extra Large,Yes,1 -- 2
+$200 +,Wax,7,Extra Large,No,0 -- 1
+$25 - $50,Paper,7,Extra Large,Yes,0 -- 1
+$200 +,Paper,7,Large,Yes,2 -- 3
+$200 +,Plastic,1,Extra Large,No,3 -- 4
+$10 - $25,Metal,2,Extra Large,Yes,1 -- 2
+$200 +,Glass,6,Medium,No,0 -- 1
+$0 - $10,Wax,3,Small,Yes,0 -- 1
+$100 - $200,Wax,6,Extra Large,Yes,3 -- 4
+$200 +,Glass,3,Large,No,1 -- 2
+$100 - $200,Paper,3,Tiny,Yes,3 -- 4
+$200 +,Wood,7,Tiny,Yes,2 -- 3
+$100 - $200,Metal,3,Extra Large,Yes,0 -- 1
+$100 - $200,Wax,3,Small,Yes,3 -- 4
+$200 +,Metal,3,Small,Yes,0 -- 1
+$200 +,Paper,2,Tiny,Yes,1 -- 2
+$10 - $25,Wax,2,Medium,Yes,0 -- 1
+$0 - $10,Paper,3,Tiny,Yes,2 -- 3
+$0 - $10,Paper,7,Extra Large,No,0 -- 1
+$25 - $50,Metal,6,Medium,Yes,0 -- 1
+$50 - $100,Metal,3,Small,Yes,0 -- 1
+$200 +,Plastic,4,Large,Yes,3 -- 4
+$100 - $200,Wood,7,Extra Large,Yes,0 -- 1
