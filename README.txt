@@ -44,7 +44,7 @@ Imports / Libraries:
 - matplotlib_venn
 - tqdm
 - termcolor
-- kmeands1d
+- kmeans1d
 
 ## How to Run
 
@@ -60,3 +60,4 @@ This prototype was developed for research purposes and is subject to updates and
 Your feedback is valuable in enhancing the tool's performance and usability.
 
 These tools were primarily developed by Francis Durso, with assistance from Dr. M S Raunak and Mr. Rick Kuhn
+
