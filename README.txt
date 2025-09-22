@@ -30,8 +30,8 @@ It will perform some metamorphic tests on the CFD_CLI tool. For an in-depth expl
 https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=931851. This means of testing is necessary as there is no oracle
 for the correct results.
 
-* The other primary file in the \tests folder is error_testing.py, which will perform many calls to the CFD tool with randomized,
-and often incorrect and/or incompatible arguments, to test its ability to catch and explain errors gracefully.
+* The other primary file in the \tests folder is error_testing.py, which will perform many calls to the CFD tool with 
+randomized, and often incorrect and/or incompatible arguments, to test its ability to catch and explain errors gracefully.
 
 ## Important Notes
 
